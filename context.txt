@@ -1,0 +1,8 @@
+Red
+Yellow
+Green 
+Added
+Content
+from
+resolve-conflict branch
+
